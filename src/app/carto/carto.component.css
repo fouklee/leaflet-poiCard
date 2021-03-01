@@ -1,0 +1,11 @@
+.carto {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  height: 500px;
+  width: 100%;
+}
+
+.poi-card {
+  border: 5px solid orange;
+}
